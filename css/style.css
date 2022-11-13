@@ -1,0 +1,221 @@
+body {
+  background-color: #D3E0EA;
+  color:#40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 200%;
+}
+hr{
+  border:dotted #40514E 6px;
+  border-bottom: none;
+  width: 4%;
+
+  margin:100px auto 100px auto;
+}
+
+h1 {
+  color: #1687A7;
+  font-size: 5.625rem;
+  line-height: e-height:
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #1687A7;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom:10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #276678E;
+
+}
+
+a {
+  color: #276678;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+a:hover{
+  color:#06a7cf;
+}
+.top-container {
+  background-color: #F6F5F5;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container{
+  margin: 100 0;
+}
+
+.bottom-container{
+  background-color:#F6F5F5 ;
+  padding:50px 0 20px;
+}
+
+.copyright{
+  color: #D3E0EA;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+
+.bio{
+  width:30%;
+  margin:auto;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 400px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 200px;
+  bottom: 300px;
+}
+
+.profile {
+  width: 300px;
+
+}
+.hobby-row{
+width: 50%;
+margin: 100px auto 100px auto;
+text-align: left;
+line-height: 2;
+display:inline-block;
+}
+
+
+.design{
+  position:relative;
+  left:350px;
+  bottom:0px;
+}
+
+
+.sew {
+  width: 600px;
+  float: left;
+  position:absolute;
+  left:100px;
+margin: 100px auto 0 auto;
+
+}
+.sew-hobby-description{
+  position:relative;
+  left:300px;
+  bottom:0px;
+
+}
+
+.web {
+  width: 600px;
+  float: right;
+  position: absolute;
+  right:100px;
+  margin: 0px auto 0 auto;
+
+}
+.web-hobby-description{
+  position:relative;
+  right:200px;
+  bottom:0px;
+
+}
+.junior{
+  position:relative;
+  right:100px;
+  bottom:0px
+
+}
+.languages {
+  width: 600px;
+  float: left;
+  position:absolute;
+  left:100px;
+margin: 100px auto 0 auto;
+}
+.languages-hobby-description{
+  position:relative;
+  left:500px;
+  bottom:0px;
+}
+
+.speak{
+  position:relative;
+  left:350px;
+  bottom:0px;
+}
+
+
+.btn {
+  background: #1687A7;
+  background-image: -webkit-linear-gradient(top, #1687A7, #1687A7);
+  background-image: -moz-linear-gradient(top, #1687A7, #1687A7);
+  background-image: -ms-linear-gradient(top, #1687A7, #1687A7);
+  background-image: -o-linear-gradient(top, #1687A7, #1687A7);
+  background-image: linear-gradient(to bottom, #1687A7, #1687A7);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #60aec4;
+  background-image: -webkit-linear-gradient(top, #60aec4, #06a7cf);
+  background-image: -moz-linear-gradient(top, #60aec4, #06a7cf);
+  background-image: -ms-linear-gradient(top, #60aec4, #06a7cf);
+  background-image: -o-linear-gradient(top, #60aec4, #06a7cf);
+  background-image: linear-gradient(to bottom, #60aec4, #06a7cf);
+  text-decoration: none;
+}
+
+.attracting{
+  width: 300px;
+  margin:  auto 100px auto 50px;
+}
+.analysis{
+  width: 300px;
+  margin: auto 100px auto 100px;
+}
+.content{
+  width:300px;
+  margin: auto 50px auto 100px;
+}
+.Mobilography{
+  width:300px;
+  margin:  auto 100px auto 50px;
+}
+.Stories{
+  width:300px;
+  margin: auto 100px auto 100px;
+}
+
+.Communication{
+  width:300px;
+  margin: auto 50px auto 100px;
+}
+
+.attracting-description{
+  width: 100px;
+
+}
+.analysis-description{
+  width: 200px;
+ ;
+}
